@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<!-- Definições de Namespaces -->
+<!DOCTYPE rdf:RDF PUBLIC "-//DUBLIN CORE//DCMES DTD 2002 01 24//EN" "http://dublincore.org/specifications/dublin-core/dcmes-xml/2002-01-24/dcmes-xml-dtd.dtd">
+<rdf:RDF 
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc ="http://purl.org/dc/elements/1.1/">
+
+ <rdf:Description rdf:about="http://www.dci.ufscar.br">
+   <dc:title>O FAROL</dc:title>
+    <dc:description>Em 1972, três faroleiros somem de um farol remoto, a quilômetros de distância do litoral. A porta de entrada do lugar está trancada por dentro. Os relógios estão parados — todos no mesmo horário. O registro do faroleiro-chefe descreve uma terrível tempestade, mas o céu está limpo.</dc:description>
+    <dc:date>15/07/2021</dc:date>
+    <dc:subject>EMMA STONEX</dc:subject>
+    <dc:type>Livro</dc:type>
+    <dc:language>pt</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="https://www.intrinseca.com.br/livro/1069/">
+   <dc:title>A PORTA</dc:title>
+    <dc:description>Uma escritora culta, com uma relação nebulosa com as autoridades comunistas na Hungria moderna do pós-Segunda Guerra Mundial, contrata Emerenc — camponesa, analfabeta, impassível, bruta e de idade indefinida — como sua governanta. Emerenc mora sozinha em uma casa onde ninguém pode passar da porta de entrada, nem mesmo seus parentes mais próximos. Ela assume o controle do lar da patroa, tornando-se indispensável, experimentando um tipo de amor — pelo menos até o tão desejado sucesso da escritora trazer à tona uma revelação devastadora.</dc:description>
+    <dc:date>07/07/2021</dc:date>
+    <dc:subject>MAGDA SZABÓ</dc:subject>
+    <dc:type>Livro</dc:type>
+    <dc:language>pt</dc:language>
+ </rdf:Description>
+ <rdf:Description rdf:about="https://www.intrinseca.com.br/livro/1070/">
+   <dc:title>EXPIRAÇÃO</dc:title>
+    <dc:description>O conto que dá título ao livro, ganhador do prêmio Hugo em 2009, é a mensagem alarmante de uma civilização muito mais avançada e já extinta de seres com órgãos mecânicos. Com cilindros de ar no lugar de pulmões, eles acreditam que viverão para sempre, até que um cientista resolve investigar a si mesmo e faz uma incrível descoberta: o ar respirável só existe porque seu fluxo no universo está em desequilíbrio, numa espécie de osmose.</dc:description>
+    <dc:date>06/07/2021</dc:date>
+    <dc:subject>TED CHIANG</dc:subject>
+    <dc:type>Livro</dc:type>
+    <dc:language>pt</dc:language>
+ </rdf:Description> 
+ <rdf:Description rdf:about="https://www.intrinseca.com.br/livro/1057/">
+   <dc:title>COISO</dc:title>
+    <dc:description>Aos nove anos, Dora Dócil é uma criança difícil. Seu quarto já está abarrotado com tudo que alguém poderia desejar, mas nada é suficiente. Ela quer sempre mais, mais e mais! Até que um dia, sem saber o que pedir aos pais, a menina anuncia que quer um COISO.</dc:description>
+    <dc:date>25/05/2021</dc:date>
+    <dc:subject>DAVID WALLIAMS</dc:subject>
+    <dc:type>Livro</dc:type>
+    <dc:language>pt</dc:language>
+ </rdf:Description> 
+ <rdf:Description rdf:about="https://www.intrinseca.com.br/livro/1033/">
+   <dc:title>A DECODIFICADORA</dc:title>
+    <dc:description>Motivada pela paixão de entender o funcionamento da natureza e por transformar descobertas em invenções práticas, Doudna ajudaria a realizar aquilo que o próprio James Watson, um dos descobridores da estrutura do DNA, classificara como o próximo avanço científico mais importante da biologia. Observando o modo com que há bilhões de anos as bactérias combatem os vírus, ela e seus parceiros de pesquisa descobriram algo capaz de transformar a vida humana: uma ferramenta de manuseio simples capaz de editar a estrutura do DNA. O CRISPR, como foi batizada, abriu um novo mundo de milagres da medicina e levantou delicadas questões éticas.</dc:description>
+    <dc:date>19/03/2021</dc:date>
+    <dc:subject>WALTER ISAACSON</dc:subject>
+    <dc:type>Livro</dc:type>
+    <dc:language>pt</dc:language>
+ </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Exemplo de Comentário em XML -->
+<receita xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xsi:noNamespaceSchemaLocation="receita.xsd">
+    <paciente>
+        <clinica> Clinica Vitae </clinica>
+        <nome> Natalia </nome>
+        <idade> 19 </idade>
+        <medicamento> Neosaldina e Dorflex </medicamento>
+        <descrição> medicamentos com atividade analgésica </descrição>
+        <tipouso> oral </tipouso>
+        <possologia> Um comprimido a cada 8 horas </possologia>
+        <data>12/06/2021</data>
+        <responsavel> Dr. Fernando </responsavel>
+    </paciente>
+</receita>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+    <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <xs:element name="receita">
+            <xs:element name="paciente">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="clinica" type="xs:string"/>
+                        <xs:element name="paciente" type="xs:string"/>
+                        <xs:element name="nome" type="xs:string"/>
+                        <xs:element name="idade" type="xs:integer"/>
+                        <xs:element name="medicamento" type="xs:string"/>
+                        <xs:element name="descrição" type="xs:string"/>
+                        <xs:element name="tipouso" type="xs:string"/>
+                        <xs:element name="possologia" type="xs:string"/>
+                        <xs:element name="data" type="xs:date"/>
+                        <xs:element name="responsavel" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:element>
+    </xsd:schema>
+</xml>
